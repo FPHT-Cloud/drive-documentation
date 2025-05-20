@@ -1,7 +1,6 @@
 
 ###### This documentation is provided in English only, feel free to translate it into French, German, Spanish or other languages.
 
-# FPHT Drive - Documentation
 
 ## What is FPHT Drive?
 
@@ -34,3 +33,9 @@ I use Rust to do all the Drive logic. The aim is to get the code as close to the
 In addition, I preferred to develop the Drive in Rust to enable me to learn another machine-oriented language other than C, which I already know and which would have made the project too simple.
 
 The final objective would be to make a Bootloader in Assembly as well as a Kernel, which I could link to my code in Rust, and thus have my own little OS, which would once again greatly reduce all possible and involuntary backdoors, like the one for [XZ](https://en.wikipedia.org/wiki/XZ_Utils_backdoor) for example.
+
+## How can we see your development progress?
+
+Every time I develop a new feature, the documentation will be updated. However, until the feature is “finished”, or available in “beta”, I won't update the documentation. There's no point in updating documentation and then deleting it if the feature isn't finished after all.
+
+Also, we can discuss together by [email](mailto:contact@fpht.eu), I don't promise an instant response, but let's say 2-3 business days.
